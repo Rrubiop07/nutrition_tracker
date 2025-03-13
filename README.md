@@ -1,0 +1,1 @@
+Summary: Program that tracks daily intake of protein to fit you goal for each day of the week. When daily input is finalzied (Monday-Sunday), a calculation of the average protein intake will be displayed for the user.
