@@ -1,1 +1,1 @@
-{"goal_type": "lose", "goal": 85.0, "protein_intake": {"Thursday": 70.0}}
+This file is were the users memories and settings are stored for the Protein Tracker program. It keeps track of goal type, daily protein intake, and protein goal per day.
