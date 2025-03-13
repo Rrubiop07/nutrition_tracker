@@ -1,1 +1,1 @@
-Summary: Program that tracks daily intake of protein to fit your goal for each day of the week. When daily input is finalzied (Monday-Sunday), a calculation of average protein intake will be displayed for the user.
+Summary: This is a program that tracks daily intake of protein to fit your fitness goals. Throughout the week (Monday-Sunday), the user will log their consumption of protein each day. At the end of the week, the program calculates and displays your average intake, helping you stay on track with your goals.
