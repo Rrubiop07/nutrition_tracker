@@ -1,0 +1,8 @@
+{
+    "nickname": "ron",
+    "goal": 154.8,
+    "protein_intake": {
+        "Thursday": 140.0
+    },
+    "goal_type": "lose"
+}
