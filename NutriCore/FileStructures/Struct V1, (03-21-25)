@@ -1,0 +1,20 @@
+nutrition_tracker/        //Main project folder
+│── nutrition_tracker.py   //Main entry point (runs the whole program)
+│── data/                  //Stores user accounts, logs, and tracking data
+│   │── users/               //Stores individual user data files
+│   │── logs/                //Stores log files for debugging
+│── modules/               //Organized feature modules
+│   │── user_management/     //Handles user login, signup, and data
+│   │   │── auth.py            //Manages login/signup & authentication
+│   │   │── user_data.py       // Handles user-specific data storage
+│   │── tracking/            // Manages daily tracking of nutrition
+│   │   │── calorie_tracker.py  //Tracks daily calorie intake
+│   │   │── protein_tracker.py  //Tracks daily protein intake
+│   │   │── future_macros.py    //Placeholder for carbs, fats, etc.
+│   │── goals/               //Handles goal setting & selection
+│   │   │── goal_selection.py   // User goal selection (gain/lose)
+│   │   │── goal_management.py  //Handles goal changes & calculations
+│   │── summaries/           //Handles weekly, monthly, and daily summaries
+│   │   │── daily_summary.py    //Displays daily tracking data
+│   │   │── weekly_summary.py   //Generates weekly reports
+│   │   │── monthly_summary.py  //Generates monthly reports
