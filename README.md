@@ -1,1 +1,0 @@
-Summary: This is a program that tracks daily intake of protein to fit your fitness goals. Throughout the week (Monday-Sunday), the user will log their consumption of protein each day. At the end of the week, the program calculates and displays your average intake, helping you stay on track with your goals.
